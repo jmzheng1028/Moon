@@ -5,7 +5,7 @@ tags:
 date: 2017-10-29
 comments: false
 ---
-<!--
+
 <center>Hi! Glad you found me:)</center> 
 
 ## About Me
@@ -16,27 +16,26 @@ I started my journey as a programmer since 2015 and have worked on several proje
 Besides what's mentioned above, I am also passionate about graphics design, video games and vlogging. More information about these is cominig soon.
 
 
-## About The Site
-This personal website contains:
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About This Site
+# Feature
+* Jekyll theme
+
+# This website contains:
+* My works and projects
+* Things I love
+  * Travelling
+  * Planning and bullet journaling
+  * ❤
+
 
 ## Developement Log
 -------------------------
 
--->
+
 
 <!--
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> 
--->
+
 
 
 ## Features
@@ -66,4 +65,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
-
+-->
