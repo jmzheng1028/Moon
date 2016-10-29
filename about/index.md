@@ -18,11 +18,11 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 
 ## About The Site
 This personal website contains:
-* My works and projects
-* Things I love
- * Travelling
- * Bullet journaling
- * ❤
+- My works and projects
+- Things I love
+ - Travelling
+ - Bullet journaling
+ - ❤
 
 ## Developement Log
 -------------------------
