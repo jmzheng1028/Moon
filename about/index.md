@@ -17,10 +17,11 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 
 
 ## About This Site
-# Feature
+
+### Features
 * Jekyll theme
 
-# This website contains:
+### This website contains:
 * My works and projects
 * Things I love
   * Travelling
