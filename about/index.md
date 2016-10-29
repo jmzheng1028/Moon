@@ -10,7 +10,9 @@ comments: false
 
 ## About Me
 Hello! My name is Jiaming Zheng, a third year computer science and engineering major at UCLA.
+
 I started my journey as a programmer since 2015 and have worked on several projects both inside and outside of classroom. Check out the [Project](https://jmzheng1028.github.io/projects/) page for detailed information about my past experience and projects.
+
 Besides what's mentioned above, I am also passionate about graphics design, video games and vlogging. More information about these is cominig soon.
 
 
@@ -18,12 +20,12 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 This personal website contains:
 * My works and projects
 * Things I love
-    -[] Travelling
-    -[] Planning and bullet journaling
-    -[] ❤
+ * Travelling
+ * Bullet journaling
+ * ❤
 
 ## Developement Log
-=========
+-------------------------
 
 
 
