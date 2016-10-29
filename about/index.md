@@ -18,11 +18,16 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 
 ## About The Site
 This personal website contains:
-- My works and projects
-- Things I love
- - Travelling
- - Bullet journaling
- - ❤
+* Minimal, you can focus on your content
+* Responsive
+* Disqus integration
+* Syntax highlighting
+* Optional post image
+* Social icons
+* Page for sharing projects
+* Optional background image
+* Simple navigation menu
+* MathJax support
 
 ## Developement Log
 -------------------------
