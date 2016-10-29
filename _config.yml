@@ -1,11 +1,11 @@
-# Site
+placeholder-big.jpg# Site
 title:              Jiaming Zheng
 bio:                'Hello World!'
 description:        ""
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/MY_LYNCH.png'
-background:         false
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true  # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                
