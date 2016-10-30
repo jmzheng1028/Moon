@@ -4,7 +4,7 @@ bio:                'Hello World!'
 description:        ""
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/MY_LYNCH.png'
+logo:               'assets/img/My_Eco.png'
 background:         'assets/img/Moon_BG.png'
 tiled_bg:           true  # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
