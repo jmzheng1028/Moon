@@ -32,8 +32,11 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 ## Developement Log
 -------------------------
 
-
-
+#### Feb 20th, 2017 ####
+    - [x] Rewrite Home page, link FreeCodeCamp account.
+    - [x] Update About and Projects Page.
+    
+    
 <!--
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> 
 
