@@ -32,8 +32,8 @@ Besides what's mentioned above, I am also passionate about graphics design, vide
 ## Developement Log
 -------------------------
 #### Feb 20th, 2017 ###
--[x] Rewrite Home page, link FreeCodeCamp account.
--[x] Update About and Projects Page.
+- Rewrite Home page, link FreeCodeCamp account.
+- Update About and Projects Page.
     
     
 <!--
