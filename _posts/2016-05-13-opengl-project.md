@@ -2,7 +2,7 @@
 layout: post
 title: "Dorameon in Egypt"
 date: 2015-05-13
-excerpt: "An OpenGL animation featureing Dorameon."
+excerpt: "An OpenGL animation featuring Dorameon."
 project: true
 tags: [JavaScript, OpenGL]
 feature: https://raw.githubusercontent.com/jmzheng1028/jmzheng1028.github.io/master/assets/img/174a_feature.png
