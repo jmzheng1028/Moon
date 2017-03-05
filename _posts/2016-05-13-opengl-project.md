@@ -19,12 +19,14 @@ Overview: A one-minute-long OpenGL animation for UCLA CS174A, Spring 2016.
 Language: JavaScript
 
 
-
 ### *Insipiration*
 Speaking of builing a lively character with the most basic 3D shapes, the cute figure of Doraemon comes into my mind. The main character, <a href= "https://en.wikipedia.org/wiki/Doraemon" target="_blank">Doraemon</a>, which comes from the famous Japanese manga series, is built primarily with spheres and semi-sphere shape defined via OpenGL functions, which pass the definition of shapes in the graphics card's memory.
 
 The short story presented in the animation is about one of the most popular gadgets, <a href="http://doraemon.wikia.com/wiki/Anywhere_Door" target="_blank">the Anywhere Door</a>.
 
+
+### *Links*
+Chekcout the project's repository on <a href="https://github.com/jmzheng1028/CS174A_Project2" target = "_blank"> Github </a>.
 
 
 
