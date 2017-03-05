@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "My Test"
+title:  "My Test"
 date:   2017-03-04
 excerpt: "Test and test"
 project: true
