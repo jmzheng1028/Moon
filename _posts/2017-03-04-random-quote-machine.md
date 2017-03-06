@@ -15,7 +15,7 @@ comments: false
 
 
 ### *Description*
-Overview: A random quote machine which uses jQuery to display a random quote get from <a href="https://market.mashape.com/andruxnet/random-famous-quotes" target="_blank" Andrux famous random quote API</a>.
+Overview: A random quote machine which uses jQuery to display a random quote get from <a href="https://market.mashape.com/andruxnet/random-famous-quotes" target="_blank"> Andrux famous random quote API</a>.
 
 Language: HTML, CSS, JavaScript
 
