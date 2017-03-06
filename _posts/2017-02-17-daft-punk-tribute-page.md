@@ -9,7 +9,6 @@ feature: https://camo.githubusercontent.com/edde83bbe3872711faf6085b514bf2c21f3d
 comments: false
 ---
 
-## Daft Punk Tribute Page
 
 <figure>
 	<center><img src="http://i1356.photobucket.com/albums/q739/Jiaming_Zheng/2017-02-18-12-40-codepen.io_zpskyohjyot.png"></center></figure>
