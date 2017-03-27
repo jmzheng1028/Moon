@@ -36,6 +36,6 @@ One main modification from the console version is the control of the car. The co
 
 ### *Links*
 Check out the video demo of the game: 
-<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/-wsM9rczjNI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-wsM9rczjNI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
 
 You can also view this project in its github repository.
