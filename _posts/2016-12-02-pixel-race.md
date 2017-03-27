@@ -37,4 +37,4 @@ One main modification from the console version is the control of the car. The co
 ### *Links*
 Check out the video demo of the game: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-wsM9rczjNI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-You can also view this project in its github repository.
+You can also view this project in its <a href = "https://github.com/jmzheng1028/CSM152A-Lab4" target="_blank"> github repository </a>.
